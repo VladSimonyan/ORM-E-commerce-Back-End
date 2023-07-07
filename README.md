@@ -1,6 +1,6 @@
 # ORM-E-commerce-Back-End
 
-
+This program is to read and make changes to a database. It uses custom routes and sql queries. To read and make changes the program uses sequalize and express.
 
 
 
